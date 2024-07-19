@@ -45,7 +45,7 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- *2024.07* AOGS2024 Best Student Poster Award. 
+- *2024.07* [AOGS2024](https://www.asiaoceania.org/aogs2024/public.asp?page=home.asp) Best Student Poster Award. 
 
 # 📖 Educations
 - *2023.06 - (now)*, PhD candidate in Environmental Science, School of Natural Sciences, The University of Manchester.
