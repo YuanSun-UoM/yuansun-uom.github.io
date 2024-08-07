@@ -52,11 +52,6 @@ My research interest includes neural machine translation and computer vision. I 
 - *2020.09 - 2023.03*, Master of Engineering, [College of Civil Engineering and Architecture](http://www.ccea.zju.edu.cn/cceaenglish/main.psp), [Zhejiang University](https://www.zju.edu.cn/english/). 
 - *2015.09 - 2020.06*, Bachelor of Architecture, [College of Civil Engineering and Architecture](http://www.ccea.zju.edu.cn/cceaenglish/main.psp), [Zhejiang University](https://www.zju.edu.cn/english/). 
 
-<!--# 💬 Invited Talks
-
- - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) 
-
 # 💻 Skills
 - Earth system modeling: [CESM](https://www.cesm.ucar.edu/), [JULES](https://jules.jchmr.org/)
 - High performance computing: [Archer2](https://www.archer2.ac.uk/), [UoM's HPC](https://ri.itservices.manchester.ac.uk/csf3/)
