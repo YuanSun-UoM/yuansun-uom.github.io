@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a urban modeler.
+Currently, I am an urban modeler.
 
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
 
@@ -48,13 +48,20 @@ My research interest includes neural machine translation and computer vision. I 
 - *2024.07* [AOGS2024](https://www.asiaoceania.org/aogs2024/public.asp?page=home.asp) Best Student Poster Award. 
 
 # 📖 Educations
-- *2023.06 - (now)*, PhD candidate in Environmental Science, School of Natural Sciences, The University of Manchester.
+- *2023.06 - (now)*, PhD candidate in Environmental Science, [School of Natural Sciences](https://www.se.manchester.ac.uk/about/schools-and-departments/school-of-natural-sciences/), [The University of Manchester](https://www.manchester.ac.uk/).
 - *2020.09 - 2023.03*, Master of Engineering, [College of Civil Engineering and Architecture](http://www.ccea.zju.edu.cn/cceaenglish/main.psp), [Zhejiang University](https://www.zju.edu.cn/english/). 
 - *2015.09 - 2020.06*, Bachelor of Architecture, [College of Civil Engineering and Architecture](http://www.ccea.zju.edu.cn/cceaenglish/main.psp), [Zhejiang University](https://www.zju.edu.cn/english/). 
 
 <!--# 💬 Invited Talks
+
  - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) 
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+# 💻 Skills
+- Earth system modeling: [CESM](https://www.cesm.ucar.edu/), [JULES](https://jules.jchmr.org/)
+- High performance computing: [Archer2](https://www.archer2.ac.uk/), [UoM's HPC](https://ri.itservices.manchester.ac.uk/csf3/)
+- Urban planning & Architecture design: [Rhino](https://www.rhino3d.com/), [SketchUp](https://www.sketchup.com/en), [ArcGIS]([www.arcgis.com](https://www.arcgis.com/home))
+
+- Statistics: Python, [R](https://www.r-project.org/), [Stata](https://www.stata.com/)
+
+- Visualization: Adobe suite ([Photoshop](https://www.adobe.com/products/photoshop.html), [Illustrator](https://www.adobe.com/products/illustrator.html), [InDesign](https://www.adobe.com/products/indesign.html), [Premiere](https://www.adobe.com/products/premiere.html))
